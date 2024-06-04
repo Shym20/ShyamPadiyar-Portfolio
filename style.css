@@ -5,7 +5,7 @@
     padding: 0;
     box-sizing: border-box;
     scroll-behavior: smooth;
-    font-family: 'Ubuntu'
+    font-family: 'Ubuntu';
 }
 
 body {
@@ -335,6 +335,10 @@ body {
 
 .sub-title span {
     color: #0ef;
+}
+
+.experience{
+    font-size: 50px;
 }
 
 .container {
